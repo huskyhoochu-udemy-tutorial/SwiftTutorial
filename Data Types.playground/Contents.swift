@@ -2,4 +2,13 @@
 
 import UIKit
 
-var str = "Hello, playground"
+var myAge : Int = 32
+
+myAge = 33
+
+let myName : String = "Angels"
+
+let myAgeInTenYears = myAge + 10
+
+let myDetails = ""
+
